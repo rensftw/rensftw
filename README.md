@@ -8,7 +8,22 @@
 
 <details>
 <summary>more</summary>
-    <img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/rensftw/rensftw/output/metrics.svg">
+<table width="2000">
+    <tr>
+        <td width="2000">
+            <img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/rensftw/rensftw/output/metrics.svg">
+        </td>
+    </tr>
+</table>
+
+<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
+<table width="2000">
+    <tr>
+        <td width="2000">
+           <img src="https://github-trophies.vercel.app/?username=rensftw&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=tokyonight">
+        </td>
+    </tr>
+</table>
 </details>
 
 <!--

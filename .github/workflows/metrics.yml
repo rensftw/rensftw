@@ -26,11 +26,9 @@ jobs:
           # Options
           user: rensftw
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_display: large
           config_padding: 0, 3%
-          plugin_people: yes
-          plugin_people_types: followers
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
