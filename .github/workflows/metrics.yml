@@ -20,8 +20,8 @@ jobs:
           committer_message: "chore: update metrics"
 
           # Your GitHub token
-          token: ${{ secrets.METRICS_ACTION }}
-          committer_token: ${{ secrets.METRICS_ACTION }}
+          token: ${{ secrets.METRICS_ACTION_CLASSIC_TOKEN }}
+          committer_token: ${{ secrets.METRICS_ACTION_CLASSIC_TOKEN }}
 
           # Options
           user: rensftw
