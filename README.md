@@ -6,6 +6,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rensftw/rensftw/output/github-contribution-grid-snake.svg">
 </picture>
 
+<details>
+<summary>more</summary>
+    <img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/rensftw/rensftw/output/metrics.svg">
+</details>
+
 <!--
 **rensftw/rensftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
