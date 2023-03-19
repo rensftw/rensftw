@@ -1,4 +1,19 @@
-### Hi there 👋
+<!-- Animated SVG was generated using https://github.com/DenverCoder1/readme-typing-svg -->
+<img align="center" src="./hi-there.svg" alt="Typing SVG" />
+
+```yaml
+---
+name: Irena 👩🏻‍💻
+interests:
+- neovim
+- dev tooling
+- browser internals
+learning:
+- Rust
+- Lua
+- Networking
+
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rensftw/rensftw/output/github-contribution-grid-snake-dark.svg">
@@ -7,7 +22,7 @@
 </picture>
 
 <details>
-<summary>more</summary>
+<summary>📈 more</summary>
 <table width="2000">
     <tr>
         <td width="2000">
@@ -16,7 +31,6 @@
     </tr>
 </table>
 
-<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
 <table width="2000">
     <tr>
         <td width="2000">
