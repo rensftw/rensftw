@@ -4,10 +4,15 @@
 ```yaml
 ---
 name: Irena 👩🏻‍💻
+job: Software Engineer @ Postman
+contacts:
+    email: rensftw@proton.me
+
 interests:
 - neovim
-- dev tooling
+- developer tooling
 - browser internals
+
 learning:
 - Rust
 - Lua
@@ -22,7 +27,7 @@ learning:
 </picture>
 
 <details>
-<summary>📈 more</summary>
+<summary>📈 stats</summary>
 <table width="2000">
     <tr>
         <td width="2000">
