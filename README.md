@@ -5,8 +5,6 @@
 ---
 name: Irena 👩🏻‍💻
 job: Software Engineer @ Postman
-contacts:
-    email: rensftw@proton.me
 
 interests:
 - neovim
@@ -18,6 +16,9 @@ learning:
 - Lua
 - Networking
 
+contacts:
+    email: rensftw@proton.me
+    session: 05af9861da2effe28db0dfc1f87b97012a37b98123165025d7144182b5a84a3830
 ```
 
 <picture>
