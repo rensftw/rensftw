@@ -21,11 +21,28 @@ contacts:
     session: 05af9861da2effe28db0dfc1f87b97012a37b98123165025d7144182b5a84a3830
 ```
 
+<!-- Snake game contribution graph animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rensftw/rensftw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rensftw/rensftw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rensftw/rensftw/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Breakout-style contribution graph animation -->
+<!--
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+-->
+
 
 <details>
 <summary>📈 stats</summary>
@@ -45,6 +62,19 @@ contacts:
     </tr>
 </table>
 </details>
+
+## Experimental:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 <!--
 **rensftw/rensftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
